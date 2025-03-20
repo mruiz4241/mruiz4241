@@ -12,7 +12,7 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Controls and Compliance Audit          | <a href="https://google.com">Controls and compliance</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,5 +53,5 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 </div>
 
 ## Projects
-- Detection Lab
+- Controls and compliance
 - SOC Automation Project
