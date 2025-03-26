@@ -38,6 +38,8 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
+<img scr="https://github.com/user-attachments/assets/f9581319-2fe9-4623-a072-da71b9f417aa" />
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
