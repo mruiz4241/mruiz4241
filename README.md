@@ -20,7 +20,6 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -35,10 +34,10 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
-<img scr="https://github.com/user-attachments/assets/f9581319-2fe9-4623-a072-da71b9f417aa" />
+![image alt](https://github.com/mruiz4241/google-certificate-image/blob/c290a6fa9e301c4de09e4cc0d045212fc9ced0e3/google-cybersecurity-certificate-v2.png)
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
