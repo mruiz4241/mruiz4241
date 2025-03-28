@@ -11,7 +11,7 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and Compliance Audit          | <a href="https://github.com/mruiz4241/Botium-Toys-Scope-Goals-and-Risk-Assessment-Report.git">Controls and compliance</a>|
+| Controls and Compliance Audit          | <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>|
 | File Permissions in Linux | <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -41,5 +41,5 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 </div>
 
 ## Projects
-- <a href="https://github.com/mruiz4241/Botium-Toys-Scope-Goals-and-Risk-Assessment-Report.git">Controls and compliance</a>
+- <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>
 - <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>
