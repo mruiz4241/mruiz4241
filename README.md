@@ -13,7 +13,7 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 |-----------------------------------------------|----------------------------|
 | Controls and Compliance Audit          | <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>|
 | File Permissions in Linux | <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Apply Filters to SQL Queries         | <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">SQL Queries</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
@@ -43,3 +43,4 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 ## Projects
 - <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>
 - <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>
+- <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">SQL Queries</a>
