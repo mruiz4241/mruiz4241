@@ -8,16 +8,13 @@ I am a driven and determined individual who is passionate about protecting peopl
 My journey has led me to develop a passion for cyber security, and I am now eager to transition into this field, specifically aiming to start as a Cyber Security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Controls and Compliance Audit          | <a href="https://github.com/mruiz4241/Botium-Toys-Scope-Goals-and-Risk-Assessment-Report.git">Controls and compliance</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| File Permissions in Linux | <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -45,4 +42,4 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 
 ## Projects
 - <a href="https://github.com/mruiz4241/Botium-Toys-Scope-Goals-and-Risk-Assessment-Report.git">Controls and compliance</a>
-- SOC Automation Project
+- <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>
