@@ -9,7 +9,18 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| List of Skills                   |                                          |
+|-----------------------------------------------|----------------------------|
+| Networking Knowledge          | Firewalls |
+| Risk Assessment | Operating System Security |
+| Antivirus and Anti-malware Tools         | Security Awareness Training |
+| Basic Cryptography      | Incident Response and Reporting |
+| Access Control and Authentication | Cybersecurity Tools (SIEM) |
+
+
+## Projects
+
+| Project Name                                     | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Controls and Compliance Audit          | <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>|
 | File Permissions in Linux | <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>|
@@ -36,12 +47,5 @@ My journey has led me to develop a passion for cyber security, and I am now eage
 
 ![image alt](https://github.com/mruiz4241/google-certificate-image/blob/c290a6fa9e301c4de09e4cc0d045212fc9ced0e3/google-cybersecurity-certificate-v2.png)
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/mruiz4241/Controls-and-compliance/blob/f384b373de8bfa5de4797f1df916e2b401718911/README.md">Controls and compliance</a>
-- <a href="https://github.com/mruiz4241/File-Permissions-in-Linux/blob/a4d01de5dcd0691ddaa13f48ff92b8192f0619ea/README.md">File permissions in Linux</a>
-- <a href="https://github.com/mruiz4241/Apply-Filters-to-SQL-Queries/blob/6927975de8cf417f21e292a3c50d73872445bece/README.md">SQL Queries</a>
-- <a href="https://github.com/mruiz4241/Update-a-file-through-a-Python-algorithm/blob/1f253ab094d970bc015f9b81c38eb577fbc15e0c/README.md">Python Algorithm</a>
